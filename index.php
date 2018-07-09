@@ -17,22 +17,10 @@
             <a href=""><i class="fa fa-dashboard"></i> Página inicial</a>
         </li>
         <li>
-            <a href=""><i class="fa fa-calculator"></i> Orçamentos</a>
-        </li>
-        <li>
-            <a href=""><i class="fa fa-file-text-o"></i> Propostas</a>
-        </li>
-        <li>
-            <a href=""><i class="fa fa-thumbs-o-up"></i> Acordos</a>
-        </li>
-        <li>
             <a href=""><i class="fa fa-envelope-o"></i> Mensagens</a>
         </li>
         <li>
             <a href=""><i class="fa fa-commenting-o"></i> Chat</a>
-        </li>
-        <li>
-            <a href=""><i class="fa fa-briefcase"></i> Empresas</a>
         </li>
     </ul>
 </div>
